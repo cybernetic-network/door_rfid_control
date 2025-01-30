@@ -377,11 +377,11 @@ const char controlPage[] PROGMEM = R"=====(
 
 // Konfigurasi WiFi - Ganti dengan kredensial WiFi Anda
 const char* ssid = "cctv";
-const char* password = "fawwaz2020";
+const char* password = "cyborg";
 
 // Kredensial untuk login web interface
 const char* www_username = "admin";
-const char* www_password = "babakan2";
+const char* www_password = "cyborg";
 
 // Definisi pin-pin yang digunakan
 const int buttonPin = 12;     // Pin untuk push button
